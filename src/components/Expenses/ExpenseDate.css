@@ -1,14 +1,14 @@
 .expense-date {
+  align-items: center;
+  background-color: #2a2a2a;
+  border: 1px solid #ececec;
+  border-radius: 12px;
+  color: white;
   display: flex;
   flex-direction: column;
-  width: 5.5rem;
   height: 5.5rem;
-  border: 1px solid #ececec;
-  background-color: #2a2a2a;
-  color: white;
-  border-radius: 12px;
-  align-items: center;
   justify-content: center;
+  width: 5.5rem;
 }
 
 .expense-date__month {
